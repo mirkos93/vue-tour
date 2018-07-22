@@ -11,7 +11,7 @@ export const DEFAULT_OPTIONS = {
 }
 
 export const DEFAULT_STEP_OPTIONS = {
-  placement: 'bottom'
+  placement: 'auto'
 }
 
 export const KEYS = {

@@ -119,7 +119,7 @@ export default {
       }
     },
     stop () {
-      this.customCallbacks.onStop()
+      this.customCallbacks.onStop(this.name)
       this.currentStep = -1
     },
 
